@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Test Index Page
 tagline: whatev
 description: blah, blah, blah
