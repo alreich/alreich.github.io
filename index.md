@@ -17,3 +17,6 @@ My papers and citations at [Google Scholar](https://scholar.google.com/citations
 
 My photos at [Flickr](https://www.flickr.com/photos/alreich).
 
+# Example Gist
+
+<script src="https://gist.github.com/alreich/dc6a045704cfdd76bb4c.js"></script>
