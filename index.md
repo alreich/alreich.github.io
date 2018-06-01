@@ -1,17 +1,19 @@
 ---
 layout: default
-title: Test Index Page
+title: Al Reich
 tagline: whatev
 description: blah, blah, blah
 ---
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
+# Brief Bio
 
-For me, the painful aspects of making a website are
+I’m a retired mathematician. My area of specialty is Mathematical Statistics. I worked in industry for my entire career in the area of scientific computing, including: Spacecraft Navigation (Space Shuttle), Artificial Intelligence (Automated Planning), Computational Geometry (Electronic Design Automation), Machine Learning, and Data Science (Cyber Security). Most of my work has involved computer programming that, over my decades-long career, has involved about a dozen different programming languages, most recently, Python.
 
-- Yada, Yada, yada
-- blah, blah, blah
+# Publications & Patents
+
+My papers and citations at [Google Scholar](https://scholar.google.com/citations?user=N_wnSyUAAAAJ&hl=en).
+
+# Photography
+
+My photos at [Flickr](https://www.flickr.com/photos/alreich).
 
