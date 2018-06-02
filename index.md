@@ -23,7 +23,7 @@ The following provide links to Jupyter notebooks on various topics in statistica
 * Calculating sample means and standard deviations
 * Calculating covariances and correlations using vectors and matrices as monoids
 * Sets as monoids
-* A HyperLogLog monoid (a "sketch method" for approximating set cardinality). NOTE: Uses the implementation, hllx.py at https://github.com/Parsely/python-pds, which has been modified here to remove the dependency on the "smhasher" module and so that it can be run using the Anaconda Python distribution.
+* A HyperLogLog monoid (a "sketch method" for approximating set cardinality). NOTE: Uses the implementation, hll.py at https://github.com/Parsely/probably, which has been modified here to remove the dependency on the "smhasher" module and so that it can be run using the Anaconda Python distribution.
 
 ## Quantile Example using R-8 Method
 
