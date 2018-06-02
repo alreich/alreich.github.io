@@ -17,9 +17,9 @@ My photos at [Flickr](https://www.flickr.com/photos/alreich).
 
 The following provide links to Jupyter notebooks on various topics in statistical analysis, machine learning, and data science:
 
-## (Extreme Value Theory (EVT))[https://github.com/alreich/ipython-notebooks/blob/master/EVT_Example.ipynb]
+## Extreme Value Theory (EVT)
 
-This Jupyter notebook describes EVT calculations using an example from Stuart Cole's book, "An Introduction to Statistical Modeling of Extreme Values". The calculations are done using both Python and R. It is noted that there does not appear to be a standard representation of the GEV distribution. Representations differ on how the shape parameter, ξ, should be expressed. Specifically, the shape parameter in the 'ismev' package in R is the negative of the shape parameter in the Python 'scipy.stats.genextreme' module.
+(This Jupyter notebook describes EVT calculations)[https://github.com/alreich/ipython-notebooks/blob/master/EVT_Example.ipynb] using an example from Stuart Cole's book, "An Introduction to Statistical Modeling of Extreme Values". The calculations are done using both Python and R. It is noted that there does not appear to be a standard representation of the GEV distribution. Representations differ on how the shape parameter, ξ, should be expressed. Specifically, the shape parameter in the 'ismev' package in R is the negative of the shape parameter in the Python 'scipy.stats.genextreme' module.
 
 ## Yada Yada
 
