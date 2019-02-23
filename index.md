@@ -45,4 +45,4 @@ A list of my papers and patents, sorted by number of citations, can be found at 
 
 ## My Photography Hobby
 
-I'm an avid photographer. Many of my photos can be seen at https://www.flickr.com/photos/alreich.
+I'm an avid photographer. Many of my photos can be seen at [Flickr](https://www.flickr.com/photos/alreich).
