@@ -27,7 +27,7 @@ The following provide links to Jupyter notebooks on various topics in statistica
 
 ## Quantile Example using R-8 Method
 
-Someone asked me once how to compute [quantiles](https://en.wikipedia.org/wiki/Quantile). This notebook represents a partial answer to that question. It provides examples of quantiles for a specific random sample using two versions of the R-8 method: (1) the ['mquantile' function](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mstats.mquantiles.html) found in the Python 'scipy.stats.mstats' module, and (2) a simple Python implementation based on [Wikipedia's description of the R-8 method](https://en.wikipedia.org/wiki/Quantile#Estimating_quantiles_from_a_sample).
+Someone asked me once how to compute [quantiles](https://en.wikipedia.org/wiki/Quantile). [This notebook represents a partial answer to that question](https://github.com/alreich/ipython-notebooks/blob/master/Quantile_Example.ipynb). It provides examples of quantiles for a specific random sample using two versions of the R-8 method: (1) the ['mquantile' function](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mstats.mquantiles.html) found in the Python 'scipy.stats.mstats' module, and (2) a simple Python implementation based on [Wikipedia's description of the R-8 method](https://en.wikipedia.org/wiki/Quantile#Estimating_quantiles_from_a_sample).
 
 # Brief Bio
 
@@ -45,4 +45,4 @@ A list of my papers and patents, sorted by number of citations, can be found at 
 
 ## My Photography Hobby
 
-I'm an avid photographer. Many of my photos can be seen at https://www.flickr.com/photos/alreich.
+I'm an avid photographer. Many of my photos can be seen at [Flickr](https://www.flickr.com/photos/alreich).
