@@ -11,3 +11,12 @@
 * **"Probabilistic Programming & Bayesian Methods for Hackers"**,
 <br />by Cam Davidson-Pilon
 <br />([home page](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/))
+
+## Probabilistic Programmimg APIs and Libraries
+
+* **PYMC3**
+<br />Allows you to write down models using an intuitive syntax to describe a data generating process
+<br />([home page](https://docs.pymc.io/))
+* **TensorFlow Probability**
+<br />"A library for probabilistic reasoning and statistical analysis
+<br />([home page](https://www.tensorflow.org/probability/))
