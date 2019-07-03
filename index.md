@@ -8,10 +8,10 @@ description: blah, blah, blah
 # Brief Bio
 
 I’m a retired mathematician. My area of specialty is Mathematical Statistics. I worked in industry for my entire career in the area of scientific computing, including:
-* Spacecraft Navigation 1980-87 (e.g., Space Shuttle onboard & ground navigation)
-* Artificial Intelligence 1987-1995 (e.g., Automated Planning, Temporal Reasoning)
+* Spacecraft Navigation 1980-87 (e.g., Space Shuttle Onboard & Ground Navigation)
+* Artificial Intelligence 1987-1995 (e.g., Automated Planning, Spatio-Temporal Reasoning)
 * Semiconductor Manufacturing 1995-2007 (e.g., Optical Proximity Correction, Design for Manufacturing)
-* National Defense (2007-2017) (e.g., Data Science, Machine Learning, Cyber Security)
+* National Defense (2007-2017) (e.g., Data Science, Machine Learning, Cyber-Security)
 
 Most of my work has involved computer programming that, over my decades-long career, has involved about a dozen different programming languages.
 
