@@ -5,7 +5,25 @@ tagline: whatev
 description: blah, blah, blah
 ---
 
-# Statistical Topics
+# Brief Bio
+
+I’m a retired mathematician. My area of specialty is Mathematical Statistics. I worked in industry for my entire career in the area of scientific computing, including:
+* Spacecraft Navigation 1980-87 (e.g., Space Shuttle onboard & ground navigation)
+* Artificial Intelligence 1987-1995 (e.g., Automated Planning, Temporal Reasoning)
+* Semiconductor Manufacturing 1995-2007 (e.g., Optical Proximity Correction, Design for Manufacturing)
+* National Defense (2007-2017) (e.g., Data Science, Machine Learning, Cyber Security)
+
+Most of my work has involved computer programming that, over my decades-long career, has involved about a dozen different programming languages.
+
+## My Publications & Patents
+
+A list of my papers and patents, sorted by number of citations, can be found at [Google Scholar](https://scholar.google.com/citations?user=N_wnSyUAAAAJ&hl=en).
+
+## My Photography Hobby
+
+I'm an avid photographer. Many of my photos can be seen at [Flickr](https://www.flickr.com/photos/alreich).
+
+# Mathematical / Statistical Topics
 
 The following provide links to Jupyter notebooks on various topics in statistical analysis, machine learning, and data science:
 
@@ -32,21 +50,3 @@ Someone asked me once how to compute [quantiles](https://en.wikipedia.org/wiki/Q
 ## Bayesian Data Analysis
 
 * [Resources](bayes.md)
-
-# Brief Bio
-
-I’m a retired mathematician. My area of specialty is Mathematical Statistics. I worked in industry for my entire career in the area of scientific computing, including:
-* Spacecraft Navigation 1980-87 (e.g., Space Shuttle onboard & ground navigation)
-* Artificial Intelligence 1987-1995 (e.g., Automated Planning, Temporal Reasoning)
-* Semiconductor Manufacturing 1995-2007 (e.g., Optical Proximity Correction, Design for Manufacturing)
-* National Defense (2007-2017) (e.g., Data Science, Machine Learning, Cyber Security)
-
-Most of my work has involved computer programming that, over my decades-long career, has involved about a dozen different programming languages.
-
-## My Publications & Patents
-
-A list of my papers and patents, sorted by number of citations, can be found at [Google Scholar](https://scholar.google.com/citations?user=N_wnSyUAAAAJ&hl=en).
-
-## My Photography Hobby
-
-I'm an avid photographer. Many of my photos can be seen at [Flickr](https://www.flickr.com/photos/alreich).
