@@ -18,5 +18,5 @@
 <br />Allows you to write down models using an intuitive syntax to describe a data generating process
 <br />([home page](https://docs.pymc.io/))
 * **TensorFlow Probability**
-<br />"A library for probabilistic reasoning and statistical analysis
+<br />A library for probabilistic reasoning and statistical analysis
 <br />([home page](https://www.tensorflow.org/probability/))
