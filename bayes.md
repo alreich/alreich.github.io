@@ -2,6 +2,9 @@
 
 ## Books
 
+* **"Computer Age Statistical Inference: Algorithms, Evidence and Data Science"
+<br />by Bradley Efron and Trevor Hastie"
+<br />([home page](https://web.stanford.edu/~hastie/CASI/))
 * **"Bayesian Data Analysis"**,
 <br />by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin
 <br />([home page](http://www.stat.columbia.edu/~gelman/book/))
