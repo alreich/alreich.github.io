@@ -27,29 +27,29 @@ I'm an avid photographer. Many of my photos can be seen at [Flickr](https://www.
 
 The following provide links to Jupyter notebooks on various topics in statistical analysis, machine learning, and data science:
 
-## Bayesian Beta-Binomial Example
+## [Bayesian Beta-Binomial Example]((https://github.com/alreich/ipython-notebooks/blob/master/Bayesian_Beta_Binomial_Example.ipynb)
 
-This notebook provides a very [simple example of Bayesian parameter estimation](https://github.com/alreich/ipython-notebooks/blob/master/Bayesian_Beta_Binomial_Example.ipynb) using the Beta-Binomial model. Both analytical and simulation-based results are presented.  Three different approaches are used to obtain a parameter estimate for this model:
+This notebook provides a very simple example of Bayesian parameter estimation using the Beta-Binomial model. Both analytical and simulation-based results are presented.  Three different approaches are used to obtain a parameter estimate for this model:
 
 * Exact Analytical Solution
 * Simple Non-MCMC Solution
 * MCMC Solution
 
-## Covid-19 and Blood Types (using a Bayesian approach)
+## [Covid-19 and Blood Types (using a Bayesian approach)](https://github.com/alreich/ipython-notebooks/blob/master/covid19_and_blood_type.ipynb)
 
 In the recent paper by Jiao Zhao, et al. it was reported that blood group (e.g., A, B, AB, or O) appears to have an effect on the likelihood of becoming infected with the Covid-19 virus. Basically, people with blood type A appear to be more susceptible to the virus, while people with blood type O appear to be less susceptible.
 
-The authors of the paper performed several types of statistical analyses to arrive at their conclusion: one-way ANOVA, 2-tailed chi-square, and a meta-analysis using random effects models.  [In this notebook](https://github.com/alreich/ipython-notebooks/blob/master/covid19_and_blood_type.ipynb), I've performed a different type of analysis, Bayesian Data Analysis (BDA), using the data reported in their paper.
+The authors of the paper performed several types of statistical analyses to arrive at their conclusion: one-way ANOVA, 2-tailed chi-square, and a meta-analysis using random effects models.  In this notebook, I've performed a different type of analysis, Bayesian Data Analysis (BDA), using the data reported in their paper.
 
 [CAVEAT: No one has checked my work, so there could be errors in it] This BDA appears to support their conclusion, but also provides posterior density estimates for the proportions of A, B, AB, and O blood groups among the infected, along with credible intervals for those proportions. See the four posterior density plots at the end of this notebook.
 
-## Extreme Value Theory (EVT)
+## [Extreme Value Theory (EVT)](https://github.com/alreich/ipython-notebooks/blob/master/EVT_Example.ipynb)
 
-[This Jupyter notebook describes EVT calculations](https://github.com/alreich/ipython-notebooks/blob/master/EVT_Example.ipynb) using an example from Stuart Cole's book, "An Introduction to Statistical Modeling of Extreme Values". The calculations are done using both Python and R. It is noted that there does not appear to be a standard representation of the GEV distribution. Representations differ on how the shape parameter, ξ, should be expressed. Specifically, the shape parameter in the 'ismev' package in R is the negative of the shape parameter in the Python 'scipy.stats.genextreme' module.
+This Jupyter notebook describes EVT calculations using an example from Stuart Cole's book, "An Introduction to Statistical Modeling of Extreme Values". The calculations are done using both Python and R. It is noted that there does not appear to be a standard representation of the GEV distribution. Representations differ on how the shape parameter, ξ, should be expressed. Specifically, the shape parameter in the 'ismev' package in R is the negative of the shape parameter in the Python 'scipy.stats.genextreme' module.
 
-## Monoids 101 for Apache Spark
+## [Monoids 101 for Apache Spark](https://github.com/alreich/ipython-notebooks/blob/master/Monoids_101_for_Apache_Spark.ipynb)
 
-[This notebook describes what monoids are and the role they play in reduction and aggregation in Spark, specifically PySpark](https://github.com/alreich/ipython-notebooks/blob/master/Monoids_101_for_Apache_Spark.ipynb). To illustrate the use of the monoid concept, the following examples are included:
+This notebook describes what monoids are and the role they play in reduction and aggregation in Spark, specifically PySpark. To illustrate the use of the monoid concept, the following examples are included:
 
 * Word count
 * Max/Min as monoids
