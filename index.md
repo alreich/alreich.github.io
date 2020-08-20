@@ -27,7 +27,7 @@ I'm an avid photographer. Many of my photos can be seen at [Flickr](https://www.
 
 The following provide links to Jupyter notebooks on various topics in statistical analysis, machine learning, and data science:
 
-## [Bayesian Beta-Binomial Example]((https://github.com/alreich/ipython-notebooks/blob/master/Bayesian_Beta_Binomial_Example.ipynb)
+## [Bayesian Beta-Binomial Example](https://github.com/alreich/ipython-notebooks/blob/master/Bayesian_Beta_Binomial_Example.ipynb)
 
 This notebook provides a very simple example of Bayesian parameter estimation using the Beta-Binomial model. Both analytical and simulation-based results are presented.  Three different approaches are used to obtain a parameter estimate for this model:
 
