@@ -63,4 +63,3 @@ This notebook describes what monoids are and the role they play in reduction and
 
 * [Books & Python Libraries](bayes.md)
 * [Bayesian Inference in R](https://cran.r-project.org/web/views/Bayesian.html)
-

@@ -11,6 +11,9 @@
 * **"Probabilistic Programming & Bayesian Methods for Hackers"**,
 <br />by Cam Davidson-Pilon
 <br />([home page](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/))
+* **"An Introduction to Bayesian Thinking: A Companion to the Statistics with R Course"**
+<br />by Merlise Clyde, et al.
+<br />([online book](https://statswithr.github.io/book/))
 
 ## Probabilistic Programmimg APIs and Libraries
 
