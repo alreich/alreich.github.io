@@ -35,10 +35,6 @@ This notebook provides a very [simple example of Bayesian parameter estimation](
 * Simple Non-MCMC Solution
 * MCMC Solution
 
-### Bayesian Data Analysis
-
-* [Resources](bayes.md)
-
 ## Covid-19 and Blood Types (using a Bayesian approach)
 
 In the recent paper by Jiao Zhao, et al. it was reported that blood group (e.g., A, B, AB, or O) appears to have an effect on the likelihood of becoming infected with the Covid-19 virus. Basically, people with blood type A appear to be more susceptible to the virus, while people with blood type O appear to be less susceptible.
@@ -62,4 +58,9 @@ The authors of the paper performed several types of statistical analyses to arri
 * Calculating covariances and correlations using vectors and matrices as monoids
 * Sets as monoids
 * A HyperLogLog monoid (a "sketch method" for approximating set cardinality). NOTE: Uses the implementation, hll.py at https://github.com/Parsely/probably, which has been modified here to remove the dependency on the "smhasher" module and so that it can be run using the Anaconda Python distribution.
+
+### Bayesian Data Analysis Resources
+
+* [Books & Python Libraries](bayes.md)
+* [Bayesian Inference in R](https://cran.r-project.org/web/views/Bayesian.html)
 
