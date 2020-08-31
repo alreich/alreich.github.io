@@ -13,7 +13,7 @@ I’m a retired mathematician. My area of specialty is Mathematical Statistics. 
 * Semiconductor Manufacturing 1995-2007 (e.g., Optical Proximity Correction, Design for Manufacturing)
 * National Defense (2007-2017) (e.g., Data Science, Machine Learning, Cyber-Security)
 
-![My Job History in Images](foobar)
+![My Job History in Images](my_job_history_2_cropped.jpg)
 
 Most of my work has involved computer programming that, over my decades-long career, has involved about a dozen different programming languages.
 
