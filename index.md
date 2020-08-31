@@ -15,15 +15,17 @@ I’m a retired mathematician. My area of specialty is Mathematical Statistics. 
 
 ![My Job History in Images](my_job_history_2_cropped.png)
 
-Most of my work has involved computer programming that, over my decades-long career, has involved about a dozen different programming languages.
+Most of my work has involved computer programming that, over my decades-long career, has involved over a dozen different programming languages, including Python, R, Java, Matlab, SQL, Scheme, Common Lisp, Prolog, C++, C, and Fortran.
 
 ## My Publications & Patents
 
 A list of my papers and patents, sorted by number of citations, can be found at [Google Scholar](https://scholar.google.com/citations?user=N_wnSyUAAAAJ&hl=en).
 
-## My Photography Hobby
+## My Hobbies
 
 I'm an avid photographer. Many of my photos can be seen at [Flickr](https://www.flickr.com/photos/alreich).
+
+I'm also love to draw and paint. Some of my recent works can be found on [Instagram](https://www.instagram.com/al.reich/)
 
 # Mathematical / Statistical Topics
 
