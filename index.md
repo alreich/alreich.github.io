@@ -15,7 +15,7 @@ I’m a retired mathematician. My area of specialty is Mathematical Statistics. 
 
 ![My Job History in Images](images/my_job_history_2_cropped.png)
 
-Most of my work has involved computer programming that, over my decades-long career, has involved over a dozen different programming languages, including Python, Apache Spark, R, Java, Matlab, SQL, Scheme, Common Lisp, Prolog, C++, C, and Fortran.
+Most of my work has involved computer programming that, over my decades-long career, has involved over a dozen different programming languages, including Python, R, Apache Spark, Java, Matlab, SQL, Scheme, Common Lisp, Prolog, C++, C, and Fortran.
 
 ## My Publications & Patents
 
@@ -25,10 +25,10 @@ A list of my papers and patents can be found at [Google Scholar](https://scholar
 
 [This link](jupyter_notebooks.md) will take you to a few Jupyter Notebooks that I've written on various topics in mathematical and statistical computing:
 
-* Bayesian Beta-Binomial Example -- A very simple example of Bayesian parameter estimation
-* Covid-19 and Blood Types (using a Bayesian approach) -- A different approach to a recent paper on Covid-19
-* Extreme Value Theory (EVT) Example -- How EVT can be used to analyze extreme events
-* Monoids 101 for Apache Spark -- An intro to large scale, distributed computing
+* Bayesian Beta-Binomial Example -- An example of Bayesian parameter estimation
+* Covid-19 and Blood Types (using a Bayesian approach) -- An alternative approach to a recent paper
+* Extreme Value Theory (EVT) Example -- EVT is used to analyze rare events
+* Monoids 101 for Apache Spark -- Tutorial on large scale, distributed computing
 
 ### Bayesian Data Analysis Resources
 

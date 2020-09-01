@@ -20,7 +20,9 @@ The authors of the paper performed several types of statistical analyses to arri
 
 ## [Extreme Value Theory (EVT) Example](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/EVT_Example.ipynb)
 
-This Jupyter notebook describes EVT calculations using an example from Stuart Cole's book, "An Introduction to Statistical Modeling of Extreme Values". The calculations are done using both Python and R. It is noted that there does not appear to be a standard representation of the GEV distribution. Representations differ on how the shape parameter, ξ, should be expressed. Specifically, the shape parameter in the 'ismev' package in R is the negative of the shape parameter in the Python 'scipy.stats.genextreme' module.
+"EVT is widely used in many disciplines, such as structural engineering, finance, earth sciences, traffic prediction, and geological engineering. For example, EVT might be used in the field of hydrology to estimate the probability of an unusually large flooding event, such as the 100-year flood." -- [Wikipedia](https://en.wikipedia.org/wiki/Extreme_value_theory)
+
+This Jupyter notebook describes EVT calculations, in Python, using an example from Stuart Cole's book, "An Introduction to Statistical Modeling of Extreme Values". It is noted that there does not appear to be a standard representation of the GEV distribution. Representations differ on how the shape parameter, ξ, should be expressed. Specifically, the shape parameter in the 'ismev' package in R is the negative of the shape parameter in the Python 'scipy.stats.genextreme' module.
 
 ## [Monoids 101 for Apache Spark](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/Monoids_101_for_Apache_Spark.ipynb)
 
