@@ -35,3 +35,5 @@ This notebook describes what monoids are and the role they play in reduction and
 * Calculating covariances and correlations using vectors and matrices as monoids
 * Sets as monoids
 * A HyperLogLog monoid (a "sketch method" for approximating set cardinality). NOTE: Uses the implementation, hll.py at https://github.com/Parsely/probably, which has been modified here to remove the dependency on the "smhasher" module and so that it can be run using the Anaconda Python distribution.
+
+[[HOME](index.md)]

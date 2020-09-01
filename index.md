@@ -19,7 +19,10 @@ Most of my work has involved computer programming that, over my decades-long car
 
 ## My Publications & Patents
 
-A list of my papers and patents can be found at [Google Scholar](https://scholar.google.com/citations?user=N_wnSyUAAAAJ&hl=en).  (Here's a [PDF version](Google_Scholar_AJR.pdf), in case the link doesn't work.)
+A list of my papers and patents can be found at [Google Scholar](https://scholar.google.com/citations?user=N_wnSyUAAAAJ&hl=en).
+(Here's a [PDF version](Google_Scholar_AJR.pdf), in case the link doesn't work.)
+
+![Papers & Patents Image](images/papers_patents.png)
 
 ## Mathematical & Statistical Topics
 
