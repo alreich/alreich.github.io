@@ -28,20 +28,14 @@ A list of my papers and patents can be found at [Google Scholar](https://scholar
 
 ## Mathematical & Statistical Topics
 
-[This link](jupyter_notebooks.md) will take you to a few Jupyter Notebooks that I've written on various topics in mathematical and statistical computing:
+[Here are a few Jupyter Notebooks](jupyter_notebooks.md) that I've written on various topics in mathematical and statistical computing:
 
 * Bayesian Beta-Binomial Example -- An example of Bayesian parameter estimation
 * Covid-19 and Blood Types (using a Bayesian approach) -- An alternative approach to a recent paper
 * Extreme Value Theory (EVT) Example -- EVT is used to analyze rare events
 * Monoids 101 for Apache Spark -- Tutorial on large scale, distributed computing
 
-![](images/beta_bin.png){: .align-left}
-Something about Bayes Theorem
-{:style="clear: left"}
-
-![](images/evt.png){: .align-left}
-Something about EVT
-{:style="clear: left"}
+![Covid & Blood Types Image](images/covid_blood_type.png)
 
 ## My Hobbies
 
