@@ -35,6 +35,14 @@ A list of my papers and patents can be found at [Google Scholar](https://scholar
 * Extreme Value Theory (EVT) Example -- EVT is used to analyze rare events
 * Monoids 101 for Apache Spark -- Tutorial on large scale, distributed computing
 
+![](images/beta_bin.png){: .align-left}
+Something about Bayes Theorem
+{:style="clear: left"}
+
+![](images/evt.png){: .align-left}
+Something about EVT
+{:style="clear: left"}
+
 ## My Hobbies
 
 I'm an avid photographer. Many of my photos can be seen at [Flickr](https://www.flickr.com/photos/alreich).
