@@ -17,6 +17,8 @@ I’m a retired mathematician. My area of specialty is Mathematical Statistics. 
 
 Most of my work has involved computer programming that, over my decades-long career, has involved over a dozen different programming languages, including Python, R, Apache Spark, Java, Matlab, SQL, Scheme, Common Lisp, Prolog, C++, C, and Fortran.
 
+And my work has also involved scientific and technical computation in many different application domains: Anomaly Detection, Army Command & Control, Astrodynamics, Automated Reasoning, Bayesian Data Analysis, Bayesian Networks, Classical Statistical Methods, Computational Geometry, Computer Programming, Data Science, Design for Manufacturing, Design Rule Checking, Expert Systems, Formal Logic, Functional Programming, Logic Programming, Machine Learning, Mathematical Models, Network Analysis, Numerical Methods, Object-Oriented Programming, Optical Proximity Correction, Orbit Determination, Phase Shift Masks, Physical Semiconductor Design Formats (GDSII, OASIS), Proposal WritingSemantic Web, Spacecraft Navigation, Spatio-Temporal Reasoning, Statistical Models, Technical Writing.
+
 ## My Publications & Patents
 
 A list of my papers and patents can be found at [Google Scholar](https://scholar.google.com/citations?user=N_wnSyUAAAAJ&hl=en).
