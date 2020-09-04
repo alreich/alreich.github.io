@@ -1,6 +1,6 @@
 # Mathematical / Statistical Topics
 
-The following provide links to Jupyter Notebooks that I've written on various topics in statistical analysis, machine learning, and data science:
+The following provide links to Jupyter Notebooks that I've written on various topics in statistical analysis, machine learning, and data science.  There are also some links to related resources farther below (e.g., books on Bayesian data analysis).
 
 ## [Bayesian Beta-Binomial Example](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/Bayesian_Beta_Binomial_Example.ipynb)
 
@@ -35,5 +35,11 @@ This notebook describes what monoids are and the role they play in reduction and
 * Calculating covariances and correlations using vectors and matrices as monoids
 * Sets as monoids
 * A HyperLogLog monoid (a "sketch method" for approximating set cardinality). NOTE: Uses the implementation, hll.py at https://github.com/Parsely/probably, which has been modified here to remove the dependency on the "smhasher" module and so that it can be run using the Anaconda Python distribution.
+
+### Bayesian Data Analysis Resources
+
+* [Books & Python Libraries](bayes.md)
+* [Bayesian Inference in R](https://cran.r-project.org/web/views/Bayesian.html)
+
 
 [[HOME](index.md)]

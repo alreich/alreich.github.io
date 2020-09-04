@@ -15,9 +15,9 @@ I’m a retired mathematician. My area of specialty is Mathematical Statistics. 
 
 ![My Job History in Images](images/job_history_images.png)
 
-Most of my work has involved computer programming that, over my decades-long career, has involved over a dozen different programming languages, including Python, R, Apache Spark, Java, Matlab, SQL, Scheme, Common Lisp, Prolog, C++, C, and Fortran.
+Over the course of my career, my work involved different technologies and application domains, such as, Anomaly Detection, Army Command & Control, Astrodynamics, Automated Reasoning, Bayesian Data Analysis, Bayesian Networks, Classical Statistical Methods, Computational Geometry, Computer Programming, Data Science, Design for Manufacturing, Design Rule Checking, Expert Systems, Formal Logic, Functional Programming, Logic Programming, Machine Learning, Mathematical Models, Network Analysis, Numerical Methods, Object-Oriented Programming, Optical Proximity Correction, Orbit Determination, Phase Shift Masks, Physical Semiconductor Design Formats (GDSII, OASIS), Proposal Writing, Semantic Web Technologies, Spacecraft Navigation, Spatio-Temporal Reasoning, Statistical Models, and Technical Writing.
 
-And my work has also involved scientific and technical computation in many different application domains: Anomaly Detection, Army Command & Control, Astrodynamics, Automated Reasoning, Bayesian Data Analysis, Bayesian Networks, Classical Statistical Methods, Computational Geometry, Computer Programming, Data Science, Design for Manufacturing, Design Rule Checking, Expert Systems, Formal Logic, Functional Programming, Logic Programming, Machine Learning, Mathematical Models, Network Analysis, Numerical Methods, Object-Oriented Programming, Optical Proximity Correction, Orbit Determination, Phase Shift Masks, Physical Semiconductor Design Formats (GDSII, OASIS), Proposal WritingSemantic Web, Spacecraft Navigation, Spatio-Temporal Reasoning, Statistical Models, Technical Writing.
+Much of my work involved computer programming using over a dozen different programming languages, including Python, R, Apache Spark, Java, Matlab, SQL, Scheme, Common Lisp, Prolog, C++, C, and Fortran.
 
 ## My Publications & Patents
 
@@ -34,11 +34,6 @@ A list of my papers and patents can be found at [Google Scholar](https://scholar
 * Covid-19 and Blood Types (using a Bayesian approach) -- An alternative approach to a recent paper
 * Extreme Value Theory (EVT) Example -- EVT is used to analyze rare events
 * Monoids 101 for Apache Spark -- Tutorial on large scale, distributed computing
-
-### Bayesian Data Analysis Resources
-
-* [Books & Python Libraries](bayes.md)
-* [Bayesian Inference in R](https://cran.r-project.org/web/views/Bayesian.html)
 
 ## My Hobbies
 
