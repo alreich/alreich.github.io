@@ -1,4 +1,6 @@
-# Bayesian Data Analysis Resources
+[[HOME](index.md)]
+
+# Resources
 
 ## Books
 

@@ -15,11 +15,11 @@ I’m a retired mathematician. My area of specialty is Mathematical Statistics. 
 
 ![My Job History in Images](images/job_history_images.png)
 
-Over the course of my career, my work involved different technologies and application domains, such as, Anomaly Detection, Army Command & Control, Astrodynamics, Automated Reasoning, Bayesian Data Analysis, Bayesian Networks, Classical Statistical Methods, Computational Geometry, Computer Programming, Data Science, Design for Manufacturing, Design Rule Checking, Expert Systems, Formal Logic, Functional Programming, Logic Programming, Machine Learning, Mathematical Models, Network Analysis, Numerical Methods, Object-Oriented Programming, Optical Proximity Correction, Orbit Determination, Phase Shift Masks, Physical Semiconductor Design Formats (GDSII, OASIS), Proposal Writing, Semantic Web Technologies, Spacecraft Navigation, Spatio-Temporal Reasoning, Statistical Models, and Technical Writing.
+## Skills
 
-Much of my work involved computer programming using over a dozen different programming languages, including Python, R, Apache Spark, Java, Matlab, SQL, Scheme, Common Lisp, Prolog, C++, C, and Fortran.
+Over the course of my career, my work involved many different technologies and application domains.  And much of my work involved programming in many different programming languages.  [These are some of the technologies, domains, and programming languages I'm familiar with.](skills.md)
 
-## My Publications & Patents
+## Publications & Patents
 
 A list of my papers and patents can be found at [Google Scholar](https://scholar.google.com/citations?user=N_wnSyUAAAAJ&hl=en).
 (Here's a [PDF version](Google_Scholar_AJR.pdf), in case the link doesn't work.)
@@ -30,18 +30,13 @@ A list of my papers and patents can be found at [Google Scholar](https://scholar
 
 [Here are a few Jupyter Notebooks](jupyter_notebooks.md) that I've written on various topics in mathematical and statistical computing:
 
-<p align="center">
-  <img src="images/covid_blood_type.png">
-</p>
-
 * Bayesian Beta-Binomial Example -- An example of Bayesian parameter estimation
 * Covid-19 and Blood Types (using a Bayesian approach) -- An alternative approach to a recent paper
 * Extreme Value Theory (EVT) Example -- EVT is used to analyze rare events
 * Monoids 101 for Apache Spark -- Tutorial on large scale, distributed computing
 
-## My Hobbies
+## Hobbies
 
 I'm an avid photographer. Many of my photos can be seen at [Flickr](https://www.flickr.com/photos/alreich).
 
-I'm also love to draw and paint. Some of my recent works can be found on [Instagram](https://www.instagram.com/al.reich/)
-
+I'm also love to draw and paint. Some of my recent work can be found on [Instagram](https://www.instagram.com/al.reich/)
