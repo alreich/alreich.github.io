@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Al Reich
-tagline: whatev
-description: blah, blah, blah
+tagline: Just having fun...
+description: Bio/Skills/Pubs/Etc of Alfred J. Reich, Ph.D.
 ---
 
 # Brief Professional Bio
