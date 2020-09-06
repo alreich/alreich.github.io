@@ -15,9 +15,11 @@ I’m a retired mathematician. My area of specialty is Mathematical Statistics. 
 
 ![My Job History in Images](images/job_history_images.png)
 
-## Skills
+## Experience & Skills
 
 Over the course of my career, my work involved many different technologies and application domains.  And much of my work involved programming in many different programming languages.  [These are some of the technologies, domains, and programming languages I'm familiar with.](skills.md)
+
+More on my work and educational history can be found on [my LinkedIn profile](https://www.linkedin.com/in/alreich/).
 
 ## Publications & Patents
 
