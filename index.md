@@ -41,4 +41,4 @@ A list of my papers and patents can be found at [Google Scholar](https://scholar
 
 I'm an avid photographer. Many of my photos can be seen at [Flickr](https://www.flickr.com/photos/alreich).
 
-I'm also love to draw and paint. Some of my recent work can be found on [Instagram](https://www.instagram.com/al.reich/)
+I also enjoy drawing and painting. Some of my recent work can be found on [Instagram](https://www.instagram.com/al.reich/)
