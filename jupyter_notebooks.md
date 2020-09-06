@@ -4,6 +4,8 @@
 
 The following provide links to Jupyter Notebooks that I've written on various topics in statistical analysis, machine learning, and data science.  There are also some links to related resources farther below (e.g., books on Bayesian data analysis).
 
+*NOTE: In case it helps, I run these notebooks from Anaconda-Navigator using different environments for each notebook.*
+
 ## [Bayesian Beta-Binomial Example](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/Bayesian_Beta_Binomial_Example.ipynb)
 
 This notebook provides a very simple example of Bayesian parameter estimation using the Beta-Binomial model. Both analytical and simulation-based results are presented.  Three different approaches are used to obtain a parameter estimate for this model:
