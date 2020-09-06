@@ -19,6 +19,7 @@
 * Data Science
 * Design for Manufacturing (DFM)
 * Design Rule Checking (DRC)
+* Electronic Design Automation (EDA)
 * Expert Systems
 * Formal Logic
 * Functional Programming (FP)
