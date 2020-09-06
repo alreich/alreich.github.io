@@ -15,6 +15,7 @@
 * Computational Geometry
 * Computer Programming
 * Cyber-Security
+* Data Fusion
 * Data Science
 * Design for Manufacturing (DFM)
 * Design Rule Checking (DRC)
