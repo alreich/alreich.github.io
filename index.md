@@ -18,7 +18,7 @@ I’m a retired mathematician. My area of specialty is Mathematical Statistics. 
 * **Semiconductor Manufacturing** 1995-2007
   * Optical Proximity Correction (OPC) and Design for Manufacturing (DfM)
   * Motorola - Semiconductor Products Sector and Freescale Semiconductor, Austin, Texas
-* **National Defense** (2007-2017)
+* **National Defense** 2007-2017
   * Data Fusion and Cyber-Security using Machine Learning, Data Science methods
   * Potomac Fusion, Inc. and Sotera Defense Solutions, Austin, Texas
 
