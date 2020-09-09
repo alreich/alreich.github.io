@@ -46,6 +46,14 @@ A list of my papers and patents can be found at [Google Scholar](https://scholar
 * Extreme Value Theory (EVT) Example -- EVT is used to analyze rare events
 * Monoids 101 for Apache Spark -- Tutorial on large scale, distributed computing
 
+## Education
+
+Texas Tech University
+Ph.D., Mathematics (Mathematical Statistics) · (1975 - 1980)
+
+University of Utah
+B.A., M.A., Mathematics · (1971 - 1975)
+
 ## Hobbies
 
 I'm an avid photographer. Many of my photos can be seen at [Flickr](https://www.flickr.com/photos/alreich).
