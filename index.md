@@ -48,11 +48,9 @@ A list of my papers and patents can be found at [Google Scholar](https://scholar
 
 ## Education
 
-Texas Tech University
-Ph.D., Mathematics (Mathematical Statistics) · (1975 - 1980)
+Texas Tech University, Ph.D., Mathematics (Mathematical Statistics), 1980.
 
-University of Utah
-B.A., M.A., Mathematics · (1971 - 1975)
+University of Utah, B.A. & M.A., Mathematics, 1973 & 1975.
 
 ## Hobbies
 
