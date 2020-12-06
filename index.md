@@ -46,9 +46,7 @@ A list of my papers and patents can be found at [Google Scholar](https://scholar
 * Extreme Value Theory (EVT) Example -- EVT is used to analyze rare events
 * Monoids 101 for Apache Spark -- Tutorial on large scale, distributed computing
 
-***********
-** N E W **
-*********** 
+N E W 
 
 I'm releasing the following new work into the wild, via github repository:
 
