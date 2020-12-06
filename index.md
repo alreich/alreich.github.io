@@ -12,14 +12,14 @@ I’m a retired mathematician. My area of specialty is Mathematical Statistics. 
   * Space Shuttle Onboard & Ground Navigation
   * McDonnell Douglas Astronautics Co., Johnson Space Center, Houston, Texas
 * **Artificial Intelligence** 1987-1995
-  * Joint DARPA & US Army program in Articial Intelligence
+  * Joint DARPA & US Army program in Artificial Intelligence
   * Automated Planning using Spatio-Temporal Reasoning
   * Lockheed Austin Division, Knowledge-Based Systems, Austin, Texas
 * **Semiconductor Manufacturing** 1995-2007
   * Optical Proximity Correction (OPC) and Design for Manufacturing (DfM)
-  * Motorola - Semiconductor Products Sector and Freescale Semiconductor, Austin, Texas
+  * Motorola Semiconductor Products Sector and Freescale Semiconductor, Austin, Texas
 * **National Defense** 2007-2017
-  * Data Fusion and Cyber-Security using Machine Learning, Data Science methods
+  * Data Science, Data Fusion, and Cyber-Security using Machine Learning methods
   * Potomac Fusion, Inc. and Sotera Defense Solutions, Austin, Texas
 
 ![My Job History in Images](images/job_history_images.png)
