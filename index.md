@@ -26,7 +26,9 @@ I’m a retired mathematician. My area of specialty is Mathematical Statistics. 
 
 ## Experience & Skills
 
-Over the course of my career, my work involved many different technologies and application domains.  And much of my work involved programming in many different programming languages.  [These are some of the technologies, domains, and programming languages I'm familiar with.](skills.md)
+Over the course of my career, my work involved many different technologies and application domains.
+
+Here's an abbreviated list: Anomaly Detection, Artificial Intelligence (AI), Astrodynamics, Automated Reasoning, Bayesian Data Analysis (BDA), Bayesian Networks, Classical Statistical Methods, Computational Geometry, Computer Programming, Cyber-Security, Data Fusion, Data Science, Expert Systems, Machine Learning, Mathematical Models, Network Analysis, Numerical Methods, Optical Proximity Correction (OPC), Orbit Determination, Phase Shift Masks (PSM), Physical Semiconductor Design Formats (GDSII, OASIS), Semantic Web Technologies (RDF, OWL), Software Engineering, Spacecraft Navigation, Spatio-Temporal Reasoning, Statistical Models, Technical Writing, and Uncertainty Reasoning.
 
 More on my work and educational history can be found on [my LinkedIn profile](https://www.linkedin.com/in/alreich/).
 
@@ -42,7 +44,7 @@ A list of my papers and patents can be found at [Google Scholar](https://scholar
 [Here are a few Jupyter Notebooks](jupyter_notebooks.md) that I've written on various topics in mathematical and statistical computing:
 
 * Bayesian Beta-Binomial Example -- An example of Bayesian parameter estimation
-* Covid-19 and Blood Types (using a Bayesian approach) -- An alternative approach to a recent paper
+* Covid-19 and Blood Types (using a Bayesian approach) -- An alternative approach to a 2020 paper in medRxiv
 * Extreme Value Theory (EVT) Example -- EVT is used to analyze rare events
 * Monoids 101 for Apache Spark -- Tutorial on large scale, distributed computing
 
