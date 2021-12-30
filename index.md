@@ -50,7 +50,7 @@ A list of my papers and patents can be found at [Google Scholar](https://scholar
 
 Python APIs (experimental):
 * [Qualitative Reasoning](https://github.com/alreich/qualreas):  Spatio-Temporal Reasoning using Relation Algebras and Constraint Networks.
-* *Work-In-Progress* [Abstract Algebra](https://abstract-algebra.readthedocs.io/en/latest/index.html): Finite Algebras - Magma, Semigroup, Monoid, Group, Ring, and Field. [github](https://github.com/alreich/abstract_algebra)
+* *Work-In-Progress* [Abstract Algebra](https://abstract-algebra.readthedocs.io/en/latest/index.html): Finite Algebras in Python: Groups, Rings, Fields, Vector Spaces, Modules, Monoids, Semigroups, and Magmas. [github](https://github.com/alreich/abstract_algebra)
 
 ## Education
 
