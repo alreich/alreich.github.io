@@ -49,8 +49,8 @@ A list of my papers and patents can be found at [Google Scholar](https://scholar
 * Monoids 101 for Apache Spark -- Tutorial on large scale, distributed computing
 
 Python APIs (experimental):
-* [Qualitative Reasoning](https://github.com/alreich/qualreas):  Spatio-Temporal Reasoning using Relation Algebras and Constraint Networks.
-* *Work-In-Progress* [Abstract Algebra](https://abstract-algebra.readthedocs.io/en/latest/index.html): Finite Algebras in Python: Groups, Rings, Fields, Vector Spaces, Modules, Monoids, Semigroups, and Magmas. [github](https://github.com/alreich/abstract_algebra)
+* Qualitative Reasoning:  Spatio-Temporal Reasoning using Relation Algebras and Constraint Networks. [github](https://github.com/alreich/qualreas)
+* Abstract Algebra - Finite Algebras in Python (Groups, Rings, Fields, Vector Spaces, Modules, Monoids, Semigroups, and Magmas) [documentation](https://abstract-algebra.readthedocs.io/en/latest/index.html) and [source code](https://github.com/alreich/abstract_algebra)
 
 ## Education
 
