@@ -56,7 +56,7 @@ Python APIs (experimental):
 
 * Texas Tech University, Ph.D., Mathematics (Mathematical Statistics), 1980
   * Dissertation: "Robust and adaptive estimation of location and scale"
-  * Citable Link: http://hdl.handle.net/2346/16490
+  * [Citable Link](http://hdl.handle.net/2346/16490)
 * University of Utah, B.A. & M.A., Mathematics, 1973 & 1975
 
 ## Hobbies
