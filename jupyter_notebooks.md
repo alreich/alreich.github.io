@@ -6,13 +6,11 @@ The following provide links to tutorials that I've written on various topics in 
 
 *NOTE: In case it helps, I run the Jupyter notebooks from Anaconda-Navigator using different environments for each notebook.*
 
-## [Bayesian Beta-Binomial Example](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/Bayesian_Beta_Binomial_Example.ipynb)
+## [Extreme Value Analysis (EVA)](https://nbviewer.org/github/alreich/EVA_talk/blob/main/Intro_to_EVA.pdf)
 
-This Jupyter notebook provides a very simple example of Bayesian parameter estimation using the Beta-Binomial model. Both analytical and simulation-based results are presented.  Three different approaches are used to obtain a parameter estimate for this model:
+"EVA is widely used in many disciplines, such as structural engineering, finance, earth sciences, traffic prediction, and geological engineering. For example, EVA might be used in the field of hydrology to estimate the probability of an unusually large flooding event, such as the 100-year flood." -- [Wikipedia](https://en.wikipedia.org/wiki/Extreme_value_theory)
 
-* Exact Analytical Solution
-* Simple Non-MCMC Solution
-* MCMC Solution
+This is the PDF file from a presentation on Extreme Value Analysis (EVA) that I gave to the central Texas IEEE Section on Oct 20, 2022.
 
 ## [Covid-19 and Blood Types (using a Bayesian approach)](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/covid19_and_blood_type.ipynb)
 
@@ -22,11 +20,13 @@ The authors of the paper performed several types of statistical analyses to arri
 
 [CAVEAT: No one has checked my work, so there could be errors in it] This BDA appears to support their conclusion, but also provides posterior density estimates for the proportions of A, B, AB, and O blood groups among the infected, along with credible intervals for those proportions. See the four posterior density plots at the end of this notebook.
 
-## [Extreme Value Analysis (EVA)](https://nbviewer.org/github/alreich/EVA_talk/blob/main/Intro_to_EVA.pdf)
+## [Bayesian Beta-Binomial Example](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/Bayesian_Beta_Binomial_Example.ipynb)
 
-"EVA is widely used in many disciplines, such as structural engineering, finance, earth sciences, traffic prediction, and geological engineering. For example, EVA might be used in the field of hydrology to estimate the probability of an unusually large flooding event, such as the 100-year flood." -- [Wikipedia](https://en.wikipedia.org/wiki/Extreme_value_theory)
+This Jupyter notebook provides a very simple example of Bayesian parameter estimation using the Beta-Binomial model. Both analytical and simulation-based results are presented.  Three different approaches are used to obtain a parameter estimate for this model:
 
-This is the PDF file from a presentation on Extreme Value Analysis (EVA) that I gave to a central Texas IEEE Section on Oct 20, 2022.
+* Exact Analytical Solution
+* Simple Non-MCMC Solution
+* MCMC Solution
 
 ## [Monoids 101 for Apache Spark](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/Monoids_101_for_Apache_Spark.ipynb)
 
@@ -43,6 +43,7 @@ This Jupyter notebook describes what monoids are and the role they play in reduc
 ### Misc. Resources
 
 * [Books & Python Libraries](bayes.md)
+* "A modeler's guide to extreme value software", [arXiv:2205.07714v1](https://arxiv.org/abs/2205.07714), Léo R. Belzile, et al., 16 May 2022
 * [Bayesian Inference in R](https://cran.r-project.org/web/views/Bayesian.html)
 
 
