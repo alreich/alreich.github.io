@@ -65,3 +65,6 @@ Python APIs (experimental):
 I'm an avid photographer. Many of my photos can be seen at [Flickr](https://www.flickr.com/photos/alreich).
 
 I also enjoy drawing and painting. Some of my recent work can be found on [Instagram](https://www.instagram.com/al.reich/)
+
+I also enjoy bicycling (e-biking, primarily)
+
