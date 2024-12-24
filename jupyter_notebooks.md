@@ -6,6 +6,10 @@ The following provide links to tutorials that I've written on various topics in 
 
 *NOTE: In case it helps, I run the Jupyter notebooks from Anaconda-Navigator using different environments for each notebook.*
 
+## [Sqrt(-1) Explained](https://github.com/alreich/ipython-notebooks/blob/master/sqrt_minus_one_explained.ipynb)
+
+This notebook is my attempt to provide a very very succinct explanation of the square root of -1.
+
 ## [Extreme Value Analysis (EVA)](https://nbviewer.org/github/alreich/EVA_talk/blob/main/Intro_to_EVA.pdf)
 
 "EVA is widely used in many disciplines, such as structural engineering, finance, earth sciences, traffic prediction, and geological engineering. For example, EVA might be used in the field of hydrology to estimate the probability of an unusually large flooding event, such as the 100-year flood." -- [Wikipedia](https://en.wikipedia.org/wiki/Extreme_value_theory)
