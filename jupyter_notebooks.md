@@ -8,7 +8,7 @@ The following provide links to tutorials that I've written on various topics in 
 
 ## [Sqrt(-1) Explained](https://github.com/alreich/ipython-notebooks/blob/master/sqrt_minus_one_explained.ipynb)
 
-This notebook is my attempt to provide a very very succinct explanation of the square root of -1.
+This is a very, very brief (minimal) explanation of the "square root of -1", without mathematical jargon, so that it can be read and understood by a broad audience, and so that they can see that there is nothing "imaginary" going on here.
 
 ## [Extreme Value Analysis (EVA)](https://nbviewer.org/github/alreich/EVA_talk/blob/main/Intro_to_EVA.pdf)
 

@@ -43,7 +43,7 @@ A list of my papers and patents can be found at [Google Scholar](https://scholar
 
 [Here are a few presentations](jupyter_notebooks.md) that I've written on various topics in mathematical and statistical computing:
 
-* Sqrt(-1) Explained -- A very, very succinct explanation of the square root of -1
+* Sqrt(-1) Explained -- A very, very brief (minimal) explanation of the "square root of -1"
 * Extreme Value Analysis (EVA) -- A presentation on the statistical modeling of rare events
 * Covid-19 and Blood Types (using a Bayesian approach) -- An alternative approach to a 2020 paper in medRxiv
 * Bayesian Beta-Binomial Example -- An example of Bayesian parameter estimation
