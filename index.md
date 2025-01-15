@@ -41,13 +41,13 @@ A list of my papers and patents can be found at [Google Scholar](https://scholar
 
 ## Mathematical & Statistical Topics
 
-[Here are a few presentations](jupyter_notebooks.md) that I've written on various topics in mathematical and statistical computing:
+Here are a few presentations that I've written on various topics in mathematical and statistical computing:
 
-* Sqrt(-1) Explained -- A very, very brief (minimal) explanation of the "square root of -1"
-* Extreme Value Analysis (EVA) -- A presentation on the statistical modeling of rare events
-* Covid-19 and Blood Types (using a Bayesian approach) -- An alternative approach to a 2020 paper in medRxiv
-* Bayesian Beta-Binomial Example -- An example of Bayesian parameter estimation
-* Monoids 101 for Apache Spark -- Tutorial on large scale, distributed computing
+* [Sqrt(-1) Explained](https://github.com/alreich/ipython-notebooks/blob/master/sqrt_minus_one_explained.ipynb) -- A very, very brief (minimal) explanation of the "square root of -1"
+* [Extreme Value Analysis (EVA)](https://nbviewer.org/github/alreich/EVA_talk/blob/main/Intro_to_EVA.pdf) -- A presentation on the statistical modeling of rare events
+* [Covid-19 and Blood Types (using a Bayesian approach)](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/covid19_and_blood_type.ipynb) -- An alternative approach to a 2020 paper in medRxiv
+* [Bayesian Beta-Binomial Example](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/Bayesian_Beta_Binomial_Example.ipynb) -- An example of Bayesian parameter estimation
+* [Monoids 101 for Apache Spark](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/Monoids_101_for_Apache_Spark.ipynb) -- Tutorial on large scale, distributed computing
 
 Python APIs (experimental):
 * Gaussian Integers & Gaussian Rational Numbers: Number theory in the complex plane. [github](https://github.com/alreich/gaussian_integers)
