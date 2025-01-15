@@ -68,7 +68,7 @@ Here are a few presentations & tutorials that I've written:
   - Exact Analytical Solution
   - Simple Non-MCMC Solution
   - MCMC Solution
-
+  
 * [Monoids 101 for Apache Spark](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/Monoids_101_for_Apache_Spark.ipynb) -- Tutorial on large scale, distributed computing
 
   This Jupyter notebook describes what monoids are and the role they play in reduction and aggregation in Spark, specifically PySpark. To illustrate the use of the monoid concept, the following examples are included:
@@ -81,10 +81,10 @@ Here are a few presentations & tutorials that I've written:
   - Sets as monoids
   - A HyperLogLog monoid (a "sketch method" for approximating set cardinality). NOTE: Uses the implementation, hll.py at https://github.com/Parsely/probably, which has been modified here to remove the dependency on the "smhasher" module and so that it can be run using the Anaconda Python distribution.
 
-**Python APIs (experimental):**
-* Gaussian Integers & Gaussian Rational Numbers: Number theory in the complex plane. [github](https://github.com/alreich/gaussian_integers)
-* Qualitative Reasoning:  Spatio-Temporal Reasoning using Relation Algebras and Constraint Networks. [github](https://github.com/alreich/qualreas)
-* Abstract Algebra - Finite Algebras in Python (Groups, Rings, Fields, Vector Spaces, Modules, Monoids, Semigroups, and Magmas) [documentation](https://abstract-algebra.readthedocs.io/en/latest/index.html) and [source code](https://github.com/alreich/abstract_algebra)
+**Python APIs (on github & readthedocs):**
+* **Gaussian Integers & Gaussian Rational Numbers**: Number theory in the complex plane. [source code](https://github.com/alreich/gaussian_integers)
+* **Qualitative Reasoning**:  Spatio-Temporal Reasoning using Relation Algebras and Constraint Networks. [source code](https://github.com/alreich/qualreas)
+* **Abstract Algebra** - Finite Algebras in Python (Groups, Rings, Fields, Vector Spaces, Modules, Monoids, Semigroups, and Magmas) [documentation](https://abstract-algebra.readthedocs.io/en/latest/index.html) and [source code](https://github.com/alreich/abstract_algebra)
 
 ## Education
 
