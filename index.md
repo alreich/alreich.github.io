@@ -43,17 +43,17 @@ A list of my papers and patents can be found at [Google Scholar](https://scholar
 
 Here are a few presentations & tutorials that I've written:
 
-* [Sqrt(-1) Explained](https://github.com/alreich/ipython-notebooks/blob/master/sqrt_minus_one_explained.ipynb) -- A very, very brief (minimal) explanation of the "square root of -1"
+* [Sqrt(-1) Explained](https://github.com/alreich/ipython-notebooks/blob/master/sqrt_minus_one_explained.ipynb) -- **A very, very brief (minimal) explanation of the "square root of -1"**
 
   This is a very, very brief (minimal) explanation of the "square root of -1", without mathematical jargon, so that it can be read and understood by a broad audience, and so that they can see that there is nothing "imaginary" going on here.
 
-* [Extreme Value Analysis (EVA)](https://nbviewer.org/github/alreich/EVA_talk/blob/main/Intro_to_EVA.pdf) -- A presentation on the statistical modeling of rare events
+* [Extreme Value Analysis (EVA)](https://nbviewer.org/github/alreich/EVA_talk/blob/main/Intro_to_EVA.pdf) -- **A presentation on the statistical modeling of rare events**
 
   This is the PDF file from a presentation on Extreme Value Analysis (EVA) that I gave to the central Texas IEEE Section on Oct 20, 2022.
 
   "EVA is widely used in many disciplines, such as structural engineering, finance, earth sciences, traffic prediction, and geological engineering. For example, EVA might be used in the field of hydrology to estimate the probability of an unusually large flooding event, such as the 100-year flood." -- Wikipedia
   
-* [Covid-19 and Blood Types (using a Bayesian approach)](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/covid19_and_blood_type.ipynb) -- An alternative approach to a 2020 paper in medRxiv
+* [Covid-19 and Blood Types (using a Bayesian approach)](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/covid19_and_blood_type.ipynb) -- **An alternative approach to a 2020 paper in medRxiv**
 
   In the recent paper by Jiao Zhao, et al. it was reported that blood group (e.g., A, B, AB, or O) appears to have an effect on the likelihood of becoming infected with the Covid-19 virus. Basically, people with blood type A appear to be more susceptible to the virus, while people with blood type O appear to be less susceptible.
 
@@ -61,15 +61,16 @@ Here are a few presentations & tutorials that I've written:
 
   [CAVEAT: No one has checked my work, so there could be errors in it] This BDA appears to support their conclusion, but also provides posterior density estimates for the proportions of A, B, AB, and O blood groups among the infected, along with credible intervals for those proportions. See the four posterior density plots at the end of this notebook.
 
-* [Bayesian Beta-Binomial Example](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/Bayesian_Beta_Binomial_Example.ipynb) -- An example of Bayesian parameter estimation
+* [Bayesian Beta-Binomial Example](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/Bayesian_Beta_Binomial_Example.ipynb) -- **An example of Bayesian parameter estimation**
 
   This Jupyter notebook provides a very simple example of Bayesian parameter estimation using the Beta-Binomial model. Both analytical and simulation-based results are presented. Three different approaches are used to obtain a parameter estimate for this model:
 
   - Exact Analytical Solution
   - Simple Non-MCMC Solution
   - MCMC Solution
-  
-* [Monoids 101 for Apache Spark](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/Monoids_101_for_Apache_Spark.ipynb) -- Tutorial on large scale, distributed computing
+
+
+* [Monoids 101 for Apache Spark](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/Monoids_101_for_Apache_Spark.ipynb) -- **A tutorial on large scale, distributed computing**
 
   This Jupyter notebook describes what monoids are and the role they play in reduction and aggregation in Spark, specifically PySpark. To illustrate the use of the monoid concept, the following examples are included:
 
@@ -89,15 +90,15 @@ Here are a few presentations & tutorials that I've written:
 ## Education
 
 * Texas Tech University, Ph.D., Mathematics (Mathematical Statistics), 1980
-  * Dissertation: "Robust and adaptive estimation of location and scale"
-  * Citable Link: [http://hdl.handle.net/2346/16490](http://hdl.handle.net/2346/16490)
+  * <u>Dissertation</u>: **"Robust and adaptive estimation of location and scale"**
+  * <u>Citable Link</u>: http://hdl.handle.net/2346/16490
 * University of Utah, B.A. & M.A., Mathematics, 1973 & 1975
 
 ## Hobbies
 
-I'm an avid photographer. Many of my photos can be seen at [Flickr](https://www.flickr.com/photos/alreich).
+I'm an avid photographer. Many of my photos can be seen at Flickr: https://www.flickr.com/photos/alreich
 
-I also enjoy drawing and painting. Some of my recent work can be found on [Instagram](https://www.instagram.com/al.reich/)
+I also enjoy drawing and painting. My art work can be found on Instagram: https://www.instagram.com/al.reich/
 
-I also enjoy bicycling (e-biking, primarily)
+I also enjoy bicycling
 
