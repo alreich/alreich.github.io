@@ -106,3 +106,7 @@ venv.bak/
 # Emacs
 \#*\#
 *.elc
+
+.idea/
+
+.DS_Store
