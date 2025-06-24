@@ -43,7 +43,7 @@ A list of my papers and patents can be found at [Google Scholar](https://scholar
 
 Here are a few presentations & tutorials that I've written:
 
-* [Sqrt(-1) Explained](https://github.com/alreich/ipython-notebooks/blob/master/sqrt_minus_one_explained.html) -- **A very, very brief (minimal) explanation of the "square root of -1"**
+* [Sqrt(-1) Explained](sqrt_minus_one_explained.html) -- **A very, very brief (minimal) explanation of the "square root of -1"**
 
   This is a very, very brief (minimal) explanation of the "square root of -1", without mathematical jargon, so that it can be read and understood by a broad audience, and so that they can see that there is nothing "imaginary" going on here.
 
