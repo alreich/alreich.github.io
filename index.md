@@ -83,9 +83,9 @@ Here are a few presentations & tutorials that I've written:
   - A HyperLogLog monoid (a "sketch method" for approximating set cardinality). NOTE: Uses the implementation, hll.py at https://github.com/Parsely/probably, which has been modified here to remove the dependency on the "smhasher" module and so that it can be run using the Anaconda Python distribution.
 
 **Python APIs (on github & readthedocs):**
-* **Gaussian Integers & Gaussian Rational Numbers**: Number theory in the complex plane. [source code](https://github.com/alreich/gaussian_integers)
+* **Gaussian Integers & Gaussian Rational Numbers**: Number theory and cryptography in the complex plane [documentation](https://gint-project.readthedocs.io/en/latest/) and [source code](https://github.com/alreich/gint-project)
+* **Abstract Algebra** - Finite Algebras in Python (Groups, Rings, Fields, Vector Spaces, Modules, Monoids, Semigroups, and Magmas) [documentation](https://finalg.readthedocs.io/en/latest/) and [source code](https://github.com/alreich/finalg)
 * **Qualitative Reasoning**:  Spatio-Temporal Reasoning using Relation Algebras and Constraint Networks. [source code](https://github.com/alreich/qualreas)
-* **Abstract Algebra** - Finite Algebras in Python (Groups, Rings, Fields, Vector Spaces, Modules, Monoids, Semigroups, and Magmas) [documentation](https://abstract-algebra.readthedocs.io/en/latest/index.html) and [source code](https://github.com/alreich/abstract_algebra)
 
 ## Education
 
