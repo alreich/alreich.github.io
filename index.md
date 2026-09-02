@@ -83,6 +83,7 @@ Here are a few presentations & tutorials that I've written:
   - A HyperLogLog monoid (a "sketch method" for approximating set cardinality). NOTE: Uses the implementation, hll.py at https://github.com/Parsely/probably, which has been modified here to remove the dependency on the "smhasher" module and so that it can be run using the Anaconda Python distribution.
 
 **Python APIs (on github & readthedocs):**
+* **Hyper-Rational Numbers**: Exact, rational-valued, hypercomplex numbers. That is, rationals (fractions), complex numbers, quaternions, octonions, sedenions, and beyond. Implemented using the [Cayley-Dickson construction](https://en.wikipedia.org/wiki/Cayley–Dickson_construction) in the **hyprat** package. [documentation](https://hyper-rationals.readthedocs.io) and [source code](https://github.com/alreich/hyper_rationals)
 * **Gaussian Integers & Rationals + Cryptography**: Number theory and cryptography in the complex plane: [documentation](https://gint-project.readthedocs.io/en/latest/) and [source code](https://github.com/alreich/gint-project)
 * **Abstract Algebra** - Finite Algebras in Python, including Groups, Rings, Fields, Vector Spaces, etc: [documentation](https://finalg.readthedocs.io/en/latest/) and [source code](https://github.com/alreich/finalg)
 * **Qualitative Reasoning**:  Spatio-Temporal Reasoning using Relation Algebras and Constraint Networks: [source code with documentation](https://github.com/alreich/qualreas)
