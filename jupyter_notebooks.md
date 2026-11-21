@@ -6,10 +6,6 @@ The following provide links to tutorials that I've written on various topics in 
 
 *NOTE: In case it helps, I run the Jupyter notebooks from Anaconda-Navigator using different environments for each notebook.*
 
-## [Sqrt(-1) Explained (Very Briefly)](https://github.com/alreich/alreich.github.io/blob/master/sqrt_minus_one_explained.md)
-
-This is a very, very brief (minimal) explanation of the "square root of -1", without mathematical jargon, so that it can be read and understood by a broad audience, and so that they can see that there is nothing "imaginary" going on here.
-
 ## [Extreme Value Analysis (EVA)](https://nbviewer.org/github/alreich/EVA_talk/blob/main/Intro_to_EVA.pdf)
 
 "EVA is widely used in many disciplines, such as structural engineering, finance, earth sciences, traffic prediction, and geological engineering. For example, EVA might be used in the field of hydrology to estimate the probability of an unusually large flooding event, such as the 100-year flood." -- [Wikipedia](https://en.wikipedia.org/wiki/Extreme_value_theory)
@@ -18,7 +14,7 @@ This is the PDF file from a presentation on Extreme Value Analysis (EVA) that I 
 
 ## [Covid-19 and Blood Types (using a Bayesian approach)](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/covid19_and_blood_type.ipynb)
 
-In the recent paper by Jiao Zhao, et al. it was reported that blood group (e.g., A, B, AB, or O) appears to have an effect on the likelihood of becoming infected with the Covid-19 virus. Basically, people with blood type A appear to be more susceptible to the virus, while people with blood type O appear to be less susceptible.
+In the paper by Jiao Zhao, et al. it was reported that blood group (e.g., A, B, AB, or O) appears to have an effect on the likelihood of becoming infected with the Covid-19 virus. Basically, people with blood type A appear to be more susceptible to the virus, while people with blood type O appear to be less susceptible.
 
 The authors of the paper performed several types of statistical analyses to arrive at their conclusion: one-way ANOVA, 2-tailed chi-square, and a meta-analysis using random effects models.  In this Jupyter notebook, I've performed a different type of analysis, Bayesian Data Analysis (BDA), using the data reported in their paper.
 
