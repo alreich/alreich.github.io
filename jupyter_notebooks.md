@@ -14,7 +14,7 @@ This is the PDF file from a presentation on Extreme Value Analysis (EVA) that I 
 
 ## [Covid-19 and Blood Types (using a Bayesian approach)](https://nbviewer.jupyter.org/github/alreich/ipython-notebooks/blob/master/covid19_and_blood_type.ipynb)
 
-In the paper by Jiao Zhao, et al. it was reported that blood group (e.g., A, B, AB, or O) appears to have an effect on the likelihood of becoming infected with the Covid-19 virus. Basically, people with blood type A appear to be more susceptible to the virus, while people with blood type O appear to be less susceptible.
+In the [2020 paper by Jiao Zhao, et al.](https://www.medrxiv.org/content/10.1101/2020.03.11.20031096v1) it was reported that blood group (e.g., A, B, AB, or O) appears to have an effect on the likelihood of becoming infected with the Covid-19 virus. Basically, people with blood type A appear to be more susceptible to the virus, while people with blood type O appear to be less susceptible.
 
 The authors of the paper performed several types of statistical analyses to arrive at their conclusion: one-way ANOVA, 2-tailed chi-square, and a meta-analysis using random effects models.  In this Jupyter notebook, I've performed a different type of analysis, Bayesian Data Analysis (BDA), using the data reported in their paper.
 
