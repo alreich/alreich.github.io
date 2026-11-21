@@ -6,7 +6,7 @@ The following provide links to tutorials that I've written on various topics in 
 
 *NOTE: In case it helps, I run the Jupyter notebooks from Anaconda-Navigator using different environments for each notebook.*
 
-## [Sqrt(-1) Explained (Very Briefly)](https://github.com/alreich/ipython-notebooks/blob/master/sqrt_minus_one_explained.md)
+## [Sqrt(-1) Explained (Very Briefly)](https://github.com/alreich/alreich.github.io/blob/master/sqrt_minus_one_explained.md)
 
 This is a very, very brief (minimal) explanation of the "square root of -1", without mathematical jargon, so that it can be read and understood by a broad audience, and so that they can see that there is nothing "imaginary" going on here.
 
